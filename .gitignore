@@ -1,0 +1,5 @@
+.venv
+.ignore
+*.swp
+
+__pycache__/*
